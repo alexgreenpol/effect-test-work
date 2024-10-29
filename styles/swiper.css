@@ -124,7 +124,7 @@
 
 .projects-section__btn-prev:hover,
 .projects-section__btn-next:hover,
-.swiper-slide__btn:hover {
+.projects-section__slide-btn:hover {
   opacity: 0.7;
 }
 
