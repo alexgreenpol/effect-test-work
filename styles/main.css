@@ -63,6 +63,7 @@ body {
 }
 
 /* Header */
+
 .header {
   position: fixed;
   top: 0;
@@ -258,6 +259,7 @@ body {
 }
 
 /* Home */
+
 .home-section {
   position: relative;
   background-image: url("../assets/images/hero-bg.jpg");
@@ -386,6 +388,7 @@ body {
 }
 
 /* Projects */
+
 .projects-section {
   background-color: var(--core-primary);
   padding-top: 8vw;
